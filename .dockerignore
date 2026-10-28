@@ -1,0 +1,5 @@
+# Keep raw WordPress data and build output out of image build contexts
+ssr-raw/
+vendor/
+build_*/
+.git/

@@ -1,0 +1,306 @@
+/*
+ * Sound Scene Revolution archive.
+ * Recreates the site's 2010 look (navy page, black column, SSR banner, blue
+ * titles, teal links) in new, responsive CSS. No build step, no JavaScript.
+ */
+
+:root {
+    --page: #02141c;        /* the old navy background */
+    --column: #000;
+    --panel: #080808;
+    --line: #2a2a2a;
+    --line-blue: #1d3a4d;
+    --text: #c9c9c9;
+    --muted: #8a8a8a;
+    --title: #3d9fd4;       /* the old #116287 titles, lifted for contrast on black */
+    --link: #64cfb5;        /* teal links, as before */
+    --link-hover: #e8b931;  /* gold from the banner stars */
+    --red: #c4161c;         /* red from the SSR letters */
+    --gold: #d9a62e;
+    --heading-font: "Century Gothic", CenturyGothic, Futura, "URW Gothic", "Avenir Next", Avenir, Verdana, sans-serif;
+    --body-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+    margin: 0;
+    background: var(--page);
+    color: var(--text);
+    font: 1rem/1.65 var(--body-font);
+    overflow-wrap: break-word;
+}
+
+a { color: var(--link); text-underline-offset: 0.15em; }
+a:hover, a:focus-visible { color: var(--link-hover); }
+
+img { max-width: 100%; height: auto; }
+
+h1, h2, h3 { font-family: var(--heading-font); font-weight: normal; line-height: 1.25; margin: 0 0 0.5rem; }
+
+code { font-size: 0.9em; overflow-wrap: anywhere; }
+
+.page {
+    max-width: 62.5rem;
+    margin: 0 auto;
+    background: var(--column);
+    box-shadow: 0 0 0 1px #0b2633;
+    min-height: 100vh;
+}
+
+/* Banner and menu bar */
+
+.banner { display: block; background: #000; }
+.banner img { display: block; width: 100%; }
+
+/* The logo sits in the middle third of the banner; on phones, crop the black sides so it stays big. */
+@media (max-width: 40rem) {
+    .banner img { height: 11rem; object-fit: cover; }
+    .menu-note { display: none; }
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 1.25rem;
+    padding: 0.55rem 1rem;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid var(--line-blue);
+    background: linear-gradient(#0d0d0d, #000);
+    font-family: var(--heading-font);
+    font-size: 0.9rem;
+}
+.menu a { color: #fff; text-decoration: none; }
+.menu a:hover, .menu a:focus-visible { color: var(--link-hover); }
+.menu-note { margin-left: auto; color: var(--muted); font-size: 0.8rem; }
+
+/* Two columns on wide screens, stacked on phones */
+
+.layout {
+    display: grid;
+    gap: 1.5rem;
+    padding: 1.5rem 0.75rem 2.5rem;
+}
+
+@media (min-width: 52rem) {
+    .layout { grid-template-columns: minmax(0, 1fr) 13.5rem; padding: 1.5rem 0.75rem 3rem; }
+}
+
+main {
+    min-width: 0;
+    border: 1px solid var(--line);
+    padding: 1.25rem 1rem;
+}
+
+@media (min-width: 52rem) {
+    main { padding: 1.75rem 1.75rem 1.25rem; }
+}
+
+/* Posts */
+
+.post { position: relative; padding-bottom: 2.25rem; margin-bottom: 2.25rem; }
+
+/* Gold stars between posts, after the banner */
+.post + .post::before,
+.about + .post::before {
+    content: "★ ★ ★";
+    position: absolute;
+    top: -3.6rem;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: var(--gold);
+    font-size: 0.8rem;
+    letter-spacing: 0.6em;
+    opacity: 0.8;
+}
+.post:last-of-type { margin-bottom: 0; }
+
+.post-header { display: flex; gap: 0.9rem; align-items: flex-start; margin-bottom: 1rem; }
+
+.date-badge {
+    flex: none;
+    width: 3.1rem;
+    border: 1px solid #3a3a3a;
+    border-radius: 3px;
+    overflow: hidden;
+    text-align: center;
+    font-family: var(--heading-font);
+    line-height: 1;
+    background: #111;
+}
+.date-month {
+    display: block;
+    padding: 0.2rem 0;
+    background: var(--red);
+    color: #fff;
+    font-size: 0.7rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+.date-day { display: block; padding: 0.3rem 0 0.1rem; color: #fff; font-size: 1.3rem; font-weight: bold; }
+.date-year { display: block; padding-bottom: 0.25rem; color: var(--gold); font-size: 0.65rem; letter-spacing: 0.05em; }
+
+.post-title { color: var(--title); font-size: 1.45rem; margin-bottom: 0.2rem; }
+h1.post-title { font-size: 1.6rem; }
+.post-title a { color: inherit; text-decoration: none; }
+.post-title a:hover { color: #d1d1d1; }
+
+.meta { color: var(--muted); font-size: 0.85rem; margin: 0; }
+.meta a { color: #b0b0b0; }
+
+.post-body ul { padding-left: 1.5rem; }
+.post-body li { margin: 0.1rem 0; }
+
+@media (min-width: 52rem) {
+    .post-body p { text-align: justify; hyphens: auto; }
+}
+
+/* Player */
+
+.player { margin: 0 0 1.1rem; padding: 0.6rem 0.7rem; border: 1px solid var(--line); background: var(--panel); }
+.player figcaption { color: #fff; font-family: var(--heading-font); font-size: 0.9rem; margin-bottom: 0.4rem; }
+.player audio { display: block; width: 100%; height: 2.5rem; }
+.player-meta { margin: 0.4rem 0 0; font-size: 0.8rem; color: var(--muted); }
+
+/* The boxed "Tagged ... Posted under ... Comments (n)" bar */
+
+.postinfo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.25rem 1rem;
+    margin-top: 1.25rem;
+    padding: 0.35rem 0.6rem;
+    border: 1px solid var(--line);
+    background: var(--panel);
+    font-size: 0.85rem;
+}
+.postinfo p { margin: 0; }
+.postinfo a { color: #3d8db8; text-decoration: none; }
+.postinfo a:hover { color: var(--link-hover); }
+.postinfo .label { color: var(--text); margin-right: 0.2rem; }
+.postinfo .label + a, .postinfo a + .label { margin-left: 0; }
+.postinfo a ~ .label { margin-left: 0.35rem; }
+.postinfo-comments { margin-left: auto; color: #3d8db8; }
+
+/* About note */
+
+.about {
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--gold);
+    background: var(--panel);
+    padding: 1rem 1.15rem;
+    margin-bottom: 4.5rem;
+    position: relative;
+}
+.about h2 { color: #fff; font-size: 1.1rem; }
+.about p { margin: 0.5rem 0 0; }
+
+/* Transcript and comments on an episode page */
+
+.transcript { border: 1px solid var(--line); background: var(--panel); padding: 0.6rem 1rem; margin: 0 0 1.5rem; }
+.transcript summary { cursor: pointer; color: #fff; font-family: var(--heading-font); }
+.transcript summary span { color: var(--muted); font-size: 0.85rem; }
+.transcript p { margin: 0.45rem 0; }
+
+.comments h2 { color: #fff; font-size: 1.2rem; border-bottom: 1px solid var(--line-blue); padding-bottom: 0.35rem; }
+.comments h2 span { color: var(--muted); font-size: 0.85rem; }
+.comment { border-left: 2px solid var(--red); padding: 0.1rem 0 0.1rem 0.85rem; margin: 0 0 1.1rem; }
+.comment .meta { margin-bottom: 0.2rem; }
+.comment .meta strong { color: #fff; font-weight: normal; }
+.comment p:last-child { margin-top: 0; }
+
+/* Pagers */
+
+.pager {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem 1rem;
+    margin: 1.5rem 0 0.5rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--line);
+    font-family: var(--heading-font);
+}
+.pager a { text-decoration: none; }
+.pager span { color: var(--muted); font-size: 0.85rem; }
+
+/* Listing pages */
+
+.listing-title { color: var(--title); font-size: 1.7rem; }
+.listing-count { color: var(--muted); margin-top: 0; }
+main > h2 { color: #fff; font-size: 1.2rem; margin-top: 2rem; }
+
+.listing { list-style: none; padding: 0; margin: 0; }
+.listing li { padding: 0.9rem 0; border-bottom: 1px solid var(--line); }
+.listing-link { font-family: var(--heading-font); font-size: 1.1rem; color: var(--title); text-decoration: none; }
+.listing-link:hover { color: #d1d1d1; }
+.listing .meta { display: block; margin: 0.15rem 0 0.35rem; }
+.listing p { margin: 0; font-size: 0.95rem; }
+
+table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+th, td { text-align: left; vertical-align: top; padding: 0.45rem 0.5rem; border-bottom: 1px solid var(--line); }
+th { font-family: var(--heading-font); font-weight: normal; color: #fff; background: var(--panel); }
+.episodes td:first-child { color: var(--gold); font-variant-numeric: tabular-nums; }
+.episodes td:nth-child(3), .episodes td:nth-child(4) { white-space: nowrap; color: var(--muted); }
+
+/* Phones: tables become stacked rows so nothing scrolls sideways. */
+@media (max-width: 40rem) {
+    table, thead, tbody, tr, th, td { display: block; }
+    thead { position: absolute; left: -9999px; }
+    tr { padding: 0.5rem 0; border-bottom: 1px solid var(--line); }
+    td { border: 0; padding: 0.1rem 0; }
+    .episodes tr { display: grid; grid-template-columns: 2.25rem 1fr auto; column-gap: 0.5rem; }
+    .episodes td:nth-child(2) { grid-column: 2 / 4; }
+    .episodes td:nth-child(3) { grid-column: 2; font-size: 0.82rem; }
+    .episodes td:nth-child(4) { grid-column: 3; font-size: 0.82rem; }
+}
+
+/* Sidebar */
+
+.sidebar { font-size: 0.9rem; line-height: 1.55; }
+.sidebar section { margin-bottom: 1.5rem; }
+.sidebar h2 {
+    color: #fff;
+    font-size: 1rem;
+    padding: 0.45rem 0.6rem;
+    margin: 0 0 0.6rem;
+    border-top: 1px solid var(--line-blue);
+    border-bottom: 1px solid var(--line-blue);
+    background: linear-gradient(#0a0a0a, #000);
+}
+.sidebar h2:not(:first-child) { margin-top: 1.25rem; }
+.sidebar a { color: #9a9a9a; text-decoration: none; }
+.sidebar a:hover { color: #7db8e0; }
+
+.plain { list-style: none; padding: 0 0 0 0.6rem; margin: 0; }
+.plain li { margin: 0.15rem 0; }
+main .plain { padding-left: 0; }
+.count { color: #c9c9c9; font-size: 0.9em; }
+.sidebar .archived { color: #5d5d5d; font-size: 0.8em; margin-left: 0.2rem; }
+
+.months { display: grid; grid-template-columns: auto 1fr; gap: 0.25rem 0.6rem; margin: 0; padding-left: 0.6rem; }
+.months dt a { color: #fff; }
+.months dd { margin: 0; display: flex; flex-wrap: wrap; gap: 0 0.45rem; }
+
+.tag-cloud { line-height: 1.8; margin: 0; padding-left: 0.6rem; }
+.tag-cloud a { margin-right: 0.4rem; white-space: nowrap; }
+
+/* Footer */
+
+.site-footer {
+    padding: 0.9rem 1rem 1.2rem;
+    border-top: 1px solid #333;
+    background: #141414;
+    color: #9a9a9a;
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+}
+.site-footer p { margin: 0; }
+.site-footer a { color: #7d98ba; }

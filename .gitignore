@@ -1,0 +1,33 @@
+# Raw WordPress data must never enter this public repo
+/ssr-raw/
+*.sql
+*.sql.gz
+*.xml
+!source/**/*.xml.blade.php
+wp-config.php
+
+# Credentials
+ia.ini
+.env
+.env.*
+
+# Build output, caches and dependencies
+build_*/
+/cache/
+/source/_*/_tmp/
+vendor/
+node_modules/
+
+# Unfiltered Whisper output (contains song lyrics); only the filtered transcripts/ are published
+/transcripts-raw/
+
+# Audio lives on archive.org only
+*.mp3
+*.m4a
+*.wav
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+.phpunit*

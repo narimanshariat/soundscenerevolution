@@ -1,0 +1,117 @@
+# All tooling for the archive runs here; nothing is installed on the host.
+#
+#   docker compose run --rm php composer install
+#   docker compose run --rm --service-ports php vendor/bin/jigsaw serve --host=0.0.0.0
+#   docker compose run --rm importer php scripts/import.php     (needs ./ssr-raw)
+#   docker compose run --rm gitleaks
+#   docker compose run --rm ia configure                        (you run this yourself)
+#   docker compose run --rm whisper /raw/uploads/wp-content/uploads/audio transcripts-raw
+#   docker compose down -v                                      (drops the throwaway DB)
+
+services:
+  php:
+    build:
+      context: .
+      dockerfile: docker/php.Dockerfile
+    volumes:
+      - .:/app
+      # Lets the local preview play audio from the raw uploads (see bootstrap.php).
+      - type: bind
+        source: ./ssr-raw
+        target: /raw
+        read_only: true
+        bind:
+          create_host_path: false
+    ports:
+      - "127.0.0.1:8000:8000"
+
+  # Throwaway copy of the WordPress database, loaded from the raw dump.
+  # No ports are published; only containers on this network can reach it.
+  db:
+    image: mariadb:11
+    profiles: [raw]
+    environment:
+      MARIADB_RANDOM_ROOT_PASSWORD: "1"
+      MARIADB_DATABASE: wordpress
+      MARIADB_USER: ssr
+      MARIADB_PASSWORD: ssr-local-only
+    volumes:
+      - type: bind
+        source: ./ssr-raw/${SSR_DUMP:-database.sql}
+        target: /docker-entrypoint-initdb.d/database.sql
+        read_only: true
+        bind:
+          create_host_path: false
+      - db-data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      retries: 60
+
+  importer:
+    build:
+      context: .
+      dockerfile: docker/php.Dockerfile
+    profiles: [raw]
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      DB_HOST: db
+      DB_NAME: wordpress
+      DB_USER: ssr
+      DB_PASSWORD: ssr-local-only
+      RAW_DIR: /raw
+    volumes:
+      - .:/app
+      - type: bind
+        source: ./ssr-raw
+        target: /raw
+        read_only: true
+        bind:
+          create_host_path: false
+
+  gitleaks:
+    image: zricethezav/gitleaks:v8.30.1
+    profiles: [tools]
+    command: ["detect", "--source", "/repo", "--verbose", "--redact"]
+    volumes:
+      - .:/repo:ro
+
+  ia:
+    build:
+      context: .
+      dockerfile: docker/ia.Dockerfile
+    profiles: [tools]
+    volumes:
+      - .:/app
+      - ia-config:/root/.config/internetarchive
+      - type: bind
+        source: ./ssr-raw
+        target: /raw
+        read_only: true
+        bind:
+          create_host_path: false
+
+  # Episode transcripts. Model weights are cached in the whisper-models volume.
+  whisper:
+    build:
+      context: .
+      dockerfile: docker/whisper.Dockerfile
+    profiles: [tools]
+    environment:
+      HF_HOME: /models
+    volumes:
+      - .:/app
+      - whisper-models:/models
+      - type: bind
+        source: ./ssr-raw
+        target: /raw
+        read_only: true
+        bind:
+          create_host_path: false
+
+volumes:
+  db-data:
+  ia-config:
+  whisper-models:
