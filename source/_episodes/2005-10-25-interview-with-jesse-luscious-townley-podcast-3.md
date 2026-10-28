@@ -20,7 +20,7 @@ audio_title: 'Interview with Jesse "Luscious" Townley - Podcast 3'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast003.mp3'
 audio_size: 19929695
 audio_duration: 2488
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-003/podcast003.mp3'
 extra_audio:
   -
     file: podcast003-full.mp3
@@ -28,7 +28,7 @@ extra_audio:
     original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast003-full.mp3'
     size: 20541449
     duration: 5135
-    url: ~
+    url: 'https://archive.org/download/ssr-podcast-003/podcast003-full.mp3'
 ---
 
 So the original goal of this Podcast was to get local and underground artists. Until now the underground part was a part of the deal we never kept up, until today. Today we are posting our interview with Bay Area punk rock staple Jesse "Luscious" Townley. Jesse has been in numerous bands (The Blatz, The Criminals, The Frisk), worked for well known indie labels (Look Out!, Alternative Tentacles), worked several positions at Berkley's now famous Gillman St., written for several local and punk rock publications (including AMP), posts on sites like [Punknews.org](http://www.punknews.org) and is generally a kick ass individual.

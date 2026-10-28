@@ -11,6 +11,10 @@ return [
     'description' => 'An archive of the Sound Scene Revolution podcast (2005–2010): interviews with punk, hardcore and indie bands.',
     'perPage' => 10,
 
+    // Cloudflare R2 bucket holding the audio, laid out as <archive identifier>/<file>.
+    // Moving it to audio.soundscenerevolution.com later only needs this line changed.
+    'audioHost' => 'https://pub-6f5bc7631b294185a0eb820b88c6d547.r2.dev',
+
     // CommonMark with no extensions: in particular no SmartPunct, so posts keep
     // their original straight quotes and dashes.
     'commonmark' => ['extensions' => []],
@@ -65,9 +69,10 @@ return [
         : 'ssr-' . $page->slug,
 
     /**
-     * Every audio file for a post, main file first. `src` is what the player and
-     * download link use: the archive.org file, or locally the raw upload (see
-     * bootstrap.php) so the site can be previewed before anything is uploaded.
+     * Every audio file for a post, main file first. `cloud_url` is the copy on
+     * Cloudflare R2, which the player, download link and feed use. `archive_url`
+     * is the archive.org copy, set only once write-audio-urls.php has checked it
+     * is there.
      */
     'audioFiles' => function ($page) {
         if (! $page->audio_file) {
@@ -87,11 +92,9 @@ return [
         }
 
         return array_map(function ($file) use ($page) {
-            $file['archive_url'] = $file['url']
-                ?: "https://archive.org/download/{$page->archiveIdentifier()}/{$file['file']}";
-            $file['src'] = $page->production
-                ? $file['archive_url']
-                : $page->baseUrl . '/local-audio/' . Str::after($file['original_url'], '/wp-content/uploads/');
+            $file['cloud_url'] = "{$page->audioHost}/{$page->archiveIdentifier()}/" . rawurlencode($file['file']);
+            $file['archive_url'] = $file['url'] ?: null;
+            $file['archive_page'] = $file['url'] ? "https://archive.org/details/{$page->archiveIdentifier()}" : null;
 
             return (object) $file;
         }, $files);

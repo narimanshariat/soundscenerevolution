@@ -15,7 +15,7 @@ title: Where things went
             <tr><td><code>/feed/</code></td><td>Still works. The same podcast feed is also at <a href="{{ $page->baseUrl }}/feed.xml"><code>/feed.xml</code></a>, the better address to subscribe to.</td></tr>
             <tr><td><code>feeds2.feedburner.com/SSR</code></td><td>The old FeedBurner feed. Subscribe to <a href="{{ $page->baseUrl }}/feed.xml"><code>/feed.xml</code></a> instead.</td></tr>
             <tr><td><code>/?p=123</code></td><td>Sent on to the post</td></tr>
-            <tr><td><code>/wp-content/uploads/audio/….mp3</code> and <code>/podpress_trac/…</code></td><td>The Internet Archive; see the list below</td></tr>
+            <tr><td><code>/wp-content/uploads/audio/….mp3</code> and <code>/podpress_trac/…</code></td><td>The archive’s audio storage, with copies at the Internet Archive; see the list below</td></tr>
             <tr><td><code>/author/rich/</code>, <code>/author/nariman/</code></td><td>Unchanged</td></tr>
             <tr><td>Search</td><td>Gone; browse <a href="{{ $page->baseUrl }}/episodes/">all episodes</a> or the tags instead</td></tr>
             <tr><td>Comments</td><td>Closed. The old ones are kept on each post.</td></tr>
@@ -23,16 +23,17 @@ title: Where things went
     </table>
 
     <h2 id="audio">Every audio file</h2>
-    <p>Each episode is its own item at the Internet Archive, where it can be streamed, downloaded or found in other formats.</p>
+    <p>Every file is now served from the archive’s own storage. Each episode is also being copied to the Internet Archive as its own item, where it can be streamed, downloaded or found in other formats; the link appears once that copy is up.</p>
     <table class="moved audio-moved">
-        <thead><tr><th scope="col">Episode</th><th scope="col">Old file</th><th scope="col">Now at the Internet Archive</th></tr></thead>
+        <thead><tr><th scope="col">Episode</th><th scope="col">Old file</th><th scope="col">Now at</th><th scope="col">Internet Archive</th></tr></thead>
         <tbody>
             @foreach ($episodes->filter(fn ($e) => $e->audio_file)->sortBy(fn ($e) => [$e->episode ?? 0, $e->date]) as $e)
                 @foreach ($e->audioFiles() as $audio)
                     <tr>
                         <td><a href="{{ $e->getUrl() }}">{{ $e->episode ? 'Podcast ' . $e->episode : $e->title }}</a></td>
                         <td><code>{{ \Illuminate\Support\Str::after($audio->original_url, 'soundscenerevolution.com') }}</code></td>
-                        <td><a href="{{ $audio->archive_url }}">{{ $e->archiveIdentifier() }}/{{ $audio->file }}</a></td>
+                        <td><a href="{{ $audio->cloud_url }}">{{ $e->archiveIdentifier() }}/{{ $audio->file }}</a></td>
+                        <td>@if ($audio->archive_page)<a href="{{ $audio->archive_page }}">{{ $e->archiveIdentifier() }}</a>@else<span class="meta">coming soon</span>@endif</td>
                     </tr>
                 @endforeach
             @endforeach

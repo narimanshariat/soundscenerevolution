@@ -4,12 +4,15 @@
         @if ($i > 0)
             <figcaption>{{ $audio->title }}</figcaption>
         @endif
-        <audio controls preload="none" src="{{ $audio->src }}">
-            <a href="{{ $audio->src }}">Download {{ $audio->file }}</a>
+        <audio controls preload="none" src="{{ $audio->cloud_url }}">
+            <a href="{{ $audio->cloud_url }}">Download {{ $audio->file }}</a>
         </audio>
         <p class="player-meta">
-            <a href="{{ $audio->src }}" download>Download MP3</a>
+            <a href="{{ $audio->cloud_url }}" download>Download MP3</a>
             · {{ $post->duration($audio->duration) }} · {{ $post->megabytes($audio->size) }}
+            @if ($audio->archive_page)
+                · <a href="{{ $audio->archive_page }}">Also on the Internet Archive</a>
+            @endif
         </p>
     </figure>
 @endforeach

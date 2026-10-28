@@ -37,7 +37,7 @@
         <pubDate>{{ gmdate(DATE_RSS, $e->date_gmt) }}</pubDate>
         <description>{{ $e->excerpt(600) }}</description>
         <content:encoded><![CDATA[{!! str_replace(']]>', ']]]]><![CDATA[>', $e->getContent()) !!}]]></content:encoded>
-        <enclosure url="{{ $audio->archive_url }}" length="{{ $audio->size }}" type="audio/mpeg"/>
+        <enclosure url="{{ $audio->cloud_url }}" length="{{ $audio->size }}" type="audio/mpeg"/>
         <itunes:author>{{ $e->author }}</itunes:author>
         <itunes:duration>{{ $audio->duration }}</itunes:duration>
 @if ($e->episode)

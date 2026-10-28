@@ -16,7 +16,7 @@ audio_title: 'The Best of Show - Podcast 10'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast010.mp3'
 audio_size: 14745120
 audio_duration: 1840
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-010/podcast010.mp3'
 ---
 
 Best of show this week. Clips include greats from ArnoCorps, Meat Hammer, Mike Park, Western Addiction, and Greg MacPherson. If you like what you hear make sure you listen to the complete shows in our archives. If you have any comments hit us up at [SoundSceneRevolution@gmail.com](mailto:soundscenerevolution@gmail.com) or be our friends at [MySpace](http://www.myspace.com/soundscenerevolution).\

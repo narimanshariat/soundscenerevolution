@@ -20,7 +20,7 @@ audio_title: 'Interview with Push To Talk - Podcast 11'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast011.mp3'
 audio_size: 17412953
 audio_duration: 2174
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-011/podcast011.mp3'
 ---
 
 So we finally got our shit together and here it is, this weeks interview with Push to Talk. So why the hell should you care? Not only are these guys an awesome band and a funny interview, not only do they have an album coming out on Doghouse Records and a national tour in the works BUT they played a show in front of Carson Daly. That's right people, Carson "T-R-Muthafucking-L" Daly. So really what more do you need or want?

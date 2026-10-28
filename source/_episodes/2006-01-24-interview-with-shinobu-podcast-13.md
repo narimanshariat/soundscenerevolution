@@ -20,7 +20,7 @@ audio_title: 'Interview with Shinobu - Podcast 13'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast013.mp3'
 audio_size: 21538628
 audio_duration: 2689
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-013/podcast013.mp3'
 comments:
   -
     name: 'Nerlman MacDermitt'

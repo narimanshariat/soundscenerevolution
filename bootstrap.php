@@ -20,10 +20,4 @@ $events->afterBuild(function (Jigsaw $jigsaw) {
     // /feed/ keeps old subscribers working but is served as text/html;
     // /feed.xml is the same feed with a proper XML content type.
     copy("$dest/feed/index.html", "$dest/feed.xml");
-
-    // Local preview only: play audio straight from the raw uploads.
-    if (! $jigsaw->getConfig('production') && is_dir('/raw/uploads/wp-content/uploads')) {
-        @unlink("$dest/local-audio");
-        symlink('/raw/uploads/wp-content/uploads', "$dest/local-audio");
-    }
 });

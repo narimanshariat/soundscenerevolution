@@ -8,7 +8,7 @@
         'ids' => $episodes->mapWithKeys(fn ($post) => [$post->wp_id => $postPath($post)]),
         'authors' => [2 => 'rich', 3 => 'nariman'],
         'audio' => $episodes->flatMap(fn ($post) => collect($post->audioFiles())
-            ->mapWithKeys(fn ($audio) => [strtolower($audio->file) => $audio->archive_url])),
+            ->mapWithKeys(fn ($audio) => [strtolower($audio->file) => $audio->cloud_url])),
     ];
 @endphp
 <script>var SSR = {!! json_encode($redirects, JSON_UNESCAPED_SLASHES) !!};</script>

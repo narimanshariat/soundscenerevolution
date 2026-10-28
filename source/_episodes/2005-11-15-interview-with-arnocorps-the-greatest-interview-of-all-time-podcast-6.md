@@ -18,7 +18,7 @@ audio_title: 'Interview with ArnoCorps (The Greatest Interview of All Time) - Po
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast006.mp3'
 audio_size: 18979255
 audio_duration: 2369
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-006/podcast006.mp3'
 comments:
   -
     name: james

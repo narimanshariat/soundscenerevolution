@@ -5,6 +5,7 @@
 #   docker compose run --rm importer php scripts/import.php     (needs ./ssr-raw)
 #   docker compose run --rm gitleaks
 #   docker compose run --rm ia configure                        (you run this yourself)
+#   docker compose run --rm rclone lsd r2:                       (after R2 setup)
 #   docker compose run --rm whisper /raw/uploads/wp-content/uploads/audio transcripts-raw
 #   docker compose down -v                                      (drops the throwaway DB)
 
@@ -15,13 +16,6 @@ services:
       dockerfile: docker/php.Dockerfile
     volumes:
       - .:/app
-      # Lets the local preview play audio from the raw uploads (see bootstrap.php).
-      - type: bind
-        source: ./ssr-raw
-        target: /raw
-        read_only: true
-        bind:
-          create_host_path: false
     ports:
       - "127.0.0.1:8000:8000"
 
@@ -111,7 +105,23 @@ services:
         bind:
           create_host_path: false
 
+  # Cloudflare R2 uploads. The R2 keys live in the r2-config named volume, never in the repo.
+  rclone:
+    image: rclone/rclone:1.68.2
+    profiles: [tools]
+    working_dir: /app
+    volumes:
+      - .:/app
+      - r2-config:/config/rclone
+      - type: bind
+        source: ./ssr-raw
+        target: /raw
+        read_only: true
+        bind:
+          create_host_path: false
+
 volumes:
   db-data:
   ia-config:
   whisper-models:
+  r2-config:

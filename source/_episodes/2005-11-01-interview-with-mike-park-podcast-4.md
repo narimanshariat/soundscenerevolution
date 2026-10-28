@@ -19,7 +19,7 @@ audio_title: 'Interview with Mike Park - Podcast 4'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast004.mp3'
 audio_size: 23613587
 audio_duration: 2949
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-004/podcast004.mp3'
 ---
 
 Before we kick this week off I'd like to wish everyone a Happy Belated Halloween. This is clearly one of the best holidays, featuring no crappy religious overtones and offering free candy. I hope everyone had a great time, and didn't get too drunk and/or stuffed with candy and pumpkin related food items.

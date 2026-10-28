@@ -18,7 +18,7 @@ audio_title: 'Interview with The Cliftons - Podcast 9'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast009.mp3'
 audio_size: 11181600
 audio_duration: 1395
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-009/podcast009.mp3'
 comments:
   -
     name: 'Mary Masters'

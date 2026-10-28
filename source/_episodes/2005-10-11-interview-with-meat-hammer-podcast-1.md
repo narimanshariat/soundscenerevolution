@@ -18,7 +18,7 @@ audio_title: 'Interview with Meat Hammer - Podcast 1'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast001.mp3'
 audio_size: 14951383
 audio_duration: 1866
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-001/podcast001.mp3'
 comments:
   -
     name: Jimmy

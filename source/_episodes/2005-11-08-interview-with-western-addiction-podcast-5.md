@@ -19,7 +19,7 @@ audio_title: 'Interview with Western Addiction - Podcast 5'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast005.mp3'
 audio_size: 21439990
 audio_duration: 2677
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-005/podcast005.mp3'
 ---
 
 Another week, another fully ground breaking episode hear at SSR. We had the high honor of not only talking with a majority of the members in one of Fat Wreck Chords newest bands, but we also conducted said interview in Fat HQ. That's right, the multibillion dollar industry behemoth opened their doors to us and we even got a personal tour from Jason of Western Addiction. Let me just tell you now Fat HQ is pretty much just the way you would envision it, from the leopard and zebra print carpet, right down to the heated toilet seat in the otherwise unsuspecting restroom.

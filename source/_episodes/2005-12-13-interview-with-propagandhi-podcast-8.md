@@ -19,7 +19,7 @@ audio_title: 'Interview with Propagandhi - Podcast 8'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast008.mp3'
 audio_size: 15911853
 audio_duration: 1986
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-008/podcast008.mp3'
 ---
 
 Ladies and Gentlemen:

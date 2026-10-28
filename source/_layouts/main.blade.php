@@ -36,7 +36,7 @@
 
     <footer class="site-footer">
         <p>Sound Scene Revolution, 2005–2010. A read-only archive: comments are closed and nothing new is being added.
-        Audio is preserved at the <a href="https://archive.org/search?query=subject%3Asoundscenerevolution">Internet Archive</a>.
+        Audio is also preserved at the <a href="https://archive.org/search?query=subject%3Asoundscenerevolution">Internet Archive</a>.
         The music in these episodes belongs to the bands.</p>
     </footer>
     </div>

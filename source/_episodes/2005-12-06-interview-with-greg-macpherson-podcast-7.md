@@ -19,7 +19,7 @@ audio_title: 'Interview with Greg MacPherson - Podcast 7'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast007.mp3'
 audio_size: 20775644
 audio_duration: 2594
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-007/podcast007.mp3'
 ---
 
 Welcome back! After stuffing ourselves on turkey and celebrating national genocide we've decided to head on back with an out of country interview. That's right, we here at SSR just sat down with a real live Canadian. Not just any Canadian but Winnipeg's own Greg MacPherson. That's right, just before opening for Propagandhi on their Crimean Tour, Mr. MacPherson took a few minutes to sit down and humor us Southern Yanks.

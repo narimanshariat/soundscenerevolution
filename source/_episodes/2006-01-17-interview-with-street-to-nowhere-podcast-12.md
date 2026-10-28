@@ -18,7 +18,7 @@ audio_title: 'Interview with Street to Nowhere - Podcast 12'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast012.mp3'
 audio_size: 19068072
 audio_duration: 2381
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-012/podcast012.mp3'
 ---
 
 So, welcome back to the wonderful world of independent music and the slobs that bring it to you. This week we got to sit down with a delightful young man who you're bound to see on the front of your Teen People or Ym-18 or whatever kids magazines are called these days. I am referring, of course, to Dave, the lead singer and songwriter for Oakland based Street to Nowhere.

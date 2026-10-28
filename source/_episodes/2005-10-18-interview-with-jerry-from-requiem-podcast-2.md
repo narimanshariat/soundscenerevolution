@@ -18,7 +18,7 @@ audio_title: 'Interview with Jerry from Requiem - Podcast 2'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast002.mp3'
 audio_size: 19178622
 audio_duration: 2394
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-002/podcast002.mp3'
 ---
 
 You said it couldn't be done, and yet here we are again to bring you show number two! This time we share our bandwidth with Jerry, the lead vocalist for the band Requiem. For those of you who don't know, Requiem is a five piece out of Salinas. So what do they sound like? If you can't get your lazy ass to listen to the songs on the stream you don't deserve shit. Alright, so the reality is I don't know how exactly to classify them. The first thing that comes to mind when I hear them is old Thrice, I mean pre *Artist in the Ambulance*, and maybe even pre *Illusion of Safety*. Not that the necessarily sound alike, but the raw energy and the musical talent are definitely overriding factors. We contemplated labeling it "Butt Rock" but we make a couple of jokes at the bands expense (including an inability to remember Jerry's last name) and we don't want to upset them. In reality they're awesome musicians and nice guys, I promise.
