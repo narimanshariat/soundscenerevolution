@@ -7,7 +7,11 @@
         <details class="transcript">
             <summary>Transcript <span>(auto-generated, may contain errors; songs left out)</span></summary>
             @foreach (preg_split('/\n+/', trim($transcript)) as $line)
-                <p>{{ $line }}</p>
+                @if ($line === '[song]' || $line === '[music]')
+                    <p class="transcript-cut">♪ {{ $line === '[song]' ? 'song played' : 'music' }} ♪</p>
+                @else
+                    <p>{{ $line }}</p>
+                @endif
             @endforeach
         </details>
     @endif

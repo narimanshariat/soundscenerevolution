@@ -207,6 +207,7 @@ h1.post-title { font-size: 1.6rem; }
 .transcript summary { cursor: pointer; color: #fff; font-family: var(--heading-font); }
 .transcript summary span { color: var(--muted); font-size: 0.85rem; }
 .transcript p { margin: 0.45rem 0; }
+.transcript .transcript-cut { color: var(--gold); font-family: var(--heading-font); font-size: 0.85rem; letter-spacing: 0.05em; text-align: center; }
 
 .comments h2 { color: #fff; font-size: 1.2rem; border-bottom: 1px solid var(--line-blue); padding-bottom: 0.35rem; }
 .comments h2 span { color: var(--muted); font-size: 0.85rem; }

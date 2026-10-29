@@ -7,6 +7,7 @@
 #   docker compose run --rm ia configure                        (you run this yourself)
 #   docker compose run --rm rclone lsd r2:                       (after R2 setup)
 #   docker compose run --rm whisper /raw/uploads/wp-content/uploads/audio transcripts-raw
+#   docker compose run --rm music                               (then scripts/filter-transcripts.py)
 #   docker compose down -v                                      (drops the throwaway DB)
 
 services:
@@ -113,6 +114,21 @@ services:
     volumes:
       - .:/app
       - r2-config:/config/rclone
+      - type: bind
+        source: ./ssr-raw
+        target: /raw
+        read_only: true
+        bind:
+          create_host_path: false
+
+  # Finds the songs in each episode so the transcript filter can drop their lyrics.
+  music:
+    build:
+      context: .
+      dockerfile: docker/music.Dockerfile
+    profiles: [tools]
+    volumes:
+      - .:/app
       - type: bind
         source: ./ssr-raw
         target: /raw

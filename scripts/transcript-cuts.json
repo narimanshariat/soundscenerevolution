@@ -1,0 +1,11 @@
+{
+    "_about": "Lyrics the automatic filter in filter-transcripts.py missed, found by reviewing its --report output. Each entry drops the transcript lines that start between the two times (seconds into the episode's MP3).",
+    "podcast021": [[1777.8, 1795.3, "song after the sign-off"]],
+    "podcast038": [[190.6, 204.3, "song after the intro (\"This is my therapy\")"]],
+    "podcast046": [[185.4, 214.7, "song after the intro (\"Where I Stand\")"]],
+    "podcast049": [[1286.9, 1287.0, "song lyric line"]],
+    "podcast051": [[495.6, 513.7, "song lyrics"]],
+    "podcast052": [[2565.7, 2565.8, "song after the sign-off"]],
+    "podcast062": [[1314.5, 1314.6, "song lyric line"]],
+    "podcast063": [[1151.0, 1154.5, "song lyrics"]]
+}
