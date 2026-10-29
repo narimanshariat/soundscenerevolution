@@ -8,7 +8,7 @@
 #   docker compose run --rm rclone lsd r2:                       (after R2 setup)
 #   docker compose run --rm whisper /raw/uploads/wp-content/uploads/audio transcripts-raw
 #   docker compose run --rm music                               (then scripts/filter-transcripts.py)
-#   docker compose down -v                                      (drops the throwaway DB)
+#   docker compose rm -sf db && docker volume rm soundscenerevolution_db-data   (drops the throwaway DB; not down -v, which also deletes the key volumes)
 
 services:
   php:

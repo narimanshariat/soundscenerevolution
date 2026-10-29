@@ -8,11 +8,11 @@
             <a href="{{ $audio->cloud_url }}">Download {{ $audio->file }}</a>
         </audio>
         <p class="player-meta">
-            <a href="{{ $audio->cloud_url }}" download>Download MP3</a>
-            · {{ $post->duration($audio->duration) }} · {{ $post->megabytes($audio->size) }}
-            @if ($audio->archive_page)
-                · <a href="{{ $audio->archive_page }}">Also on the Internet Archive</a>
+            Download: <a href="{{ $audio->cloud_url }}" download>Cloudflare</a>
+            @if ($audio->archive_url)
+                | <a href="{{ $audio->archive_url }}" download>Internet Archive</a>
             @endif
+            · {{ $post->duration($audio->duration) }} · {{ $post->megabytes($audio->size) }}
         </p>
     </figure>
 @endforeach
