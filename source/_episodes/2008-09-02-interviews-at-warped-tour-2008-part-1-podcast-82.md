@@ -22,7 +22,7 @@ audio_title: 'Interviews at Warped Tour 2008 (Part 1) - Podcast 82'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast082.mp3'
 audio_size: 41293184
 audio_duration: 2579
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-082/podcast082.mp3'
 ---
 
 We're back folks with probably our best podcast this week! Our show today is a double dose of Warped Tour Madness featuring The Bronx and (for the third time) Against Me!. We couldn't be more excited as we talk with Matt, of The Bronx, about their two new albums and the insanity of Bronx vinyl. We were even more stoked to talk to Warren of Against Me!. The boys of AM! weren't doing interviews that day, but we pulled some strings and managed to land a quickie with Florida's favorite drummer/beard patron.

@@ -20,7 +20,7 @@ audio_title: 'Interview with The Phenomenauts - Podcast 24'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast024.mp3'
 audio_size: 16893430
 audio_duration: 2109
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-024/podcast024.mp3'
 comments:
   -
     name: deevo

@@ -20,7 +20,7 @@ audio_title: 'Interview with The Riot Before - Podcast 90'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast090.mp3'
 audio_size: 44415417
 audio_duration: 2774
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-090/podcast090.mp3'
 ---
 
 Guess who got lazy and forgot to post last week's episode...it was me! Sorry, but now you'll be extra thankful for this week's episode. Especially considering it features an awesome band you're sure to love, The Riot Before. We had the chance to speak with Brett of The Riot Before, after he played a show in our hotel room, shit was tight!

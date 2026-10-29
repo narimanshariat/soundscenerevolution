@@ -18,7 +18,7 @@ audio_title: 'Interview with Gnarboots (Part 2) - Podcast 121'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast121.mp3'
 audio_size: 46370047
 audio_duration: 2892
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-121/podcast121.mp3'
 ---
 
 Part 2 of 2. Check out the first part [here](http://soundscenerevolution.com/2010/05/04/interview-with-gnarboots-part-1-podcast-120).

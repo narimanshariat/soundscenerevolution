@@ -22,7 +22,7 @@ audio_title: 'Interviews at Warped Tour 2007 (Part 2) - Podcast 65'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast065.mp3'
 audio_size: 52278065
 audio_duration: 3266
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-065/podcast065.mp3'
 ---
 
 Welcome back. No reason to waste a lot of time on this because it's part two of our three part WARPED TOUR SHITTACULAR!!! Basically, it's us filtering through every single artist the fine folks at Warped Tour threw at us. And like the ubber pro's we are, we handled each interview like we didn't know who the hell these people were (because mostly, we didn't).

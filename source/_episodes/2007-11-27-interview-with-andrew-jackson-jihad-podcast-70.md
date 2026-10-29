@@ -20,7 +20,7 @@ audio_title: 'Interview with Andrew Jackson Jihad - Podcast 70'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast070.mp3'
 audio_size: 30943756
 audio_duration: 1933
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-070/podcast070.mp3'
 ---
 
 God, you would think being a social reject I would have enough time to update this thing on a regular basis but alas, I suck the dong. Nonetheless, I am ridiculously excited about this weeks show because not only does this band make amazing music, not only are they amazing dudes but they're also super beardy! What group of humans could combine all these seemingly conflicting characteristics? None other than Arizona's own Andrew Jackson Jihad.

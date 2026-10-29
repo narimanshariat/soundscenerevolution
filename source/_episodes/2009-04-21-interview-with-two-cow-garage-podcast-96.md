@@ -18,7 +18,7 @@ audio_title: 'Interview with Two Cow Garage - Podcast 96'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast096.mp3'
 audio_size: 35100778
 audio_duration: 2192
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-096/podcast096.mp3'
 ---
 
 I am unbelieveably stoked about this weeks show. Yes all my shows are my babies and I love them all but everyone has a kid that's a little better than the others. The Baldwins have Alec. The Jacksons have Michael. The Lohan's even have...Nevermind. Point is this show is great. Not only do we have a great band but an amazing contest.

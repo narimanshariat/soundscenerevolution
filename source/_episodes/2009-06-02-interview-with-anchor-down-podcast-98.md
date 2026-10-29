@@ -19,7 +19,7 @@ audio_title: 'Interview with Anchor Down - Podcast 98'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast098.mp3'
 audio_size: 48228653
 audio_duration: 3008
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-098/podcast098.mp3'
 comments:
   -
     name: mikexdude

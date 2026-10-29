@@ -21,7 +21,7 @@ audio_title: 'Interview with The Emotron - Podcast 105'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast105.mp3'
 audio_size: 44521614
 audio_duration: 2777
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-105/podcast105.mp3'
 ---
 
 This week we have an awesome and insane show featuring Kyle Knight, A.K.A. The Emotron.  Knowing only of the Emotron and not Kyle I had no idea what to expect of this interview.  For those of you who don't know, The Emotron is know for his antics including drinking Yoo-Hoo until he pukes, urinating on stage, and even lighting his genitals on fire.  With all that it may be hard to believe that Kyle is a normal guy, but after talking to him that's exactly what I noticed.  Kyle is as friendly and plesent as The Emotron is shocking and disturbing.  And if that isn't enough to make you listen, you also get to hear cuts off of The Emotron's new album...And that shit is surprisingly good!

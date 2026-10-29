@@ -20,7 +20,7 @@ audio_title: 'Interview with Strike Anywhere - Podcast 39'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast039.mp3'
 audio_size: 14980849
 audio_duration: 1870
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-039/podcast039.mp3'
 ---
 
 So with a pressing election coming up (that's for those of you who care enough to stop playing Final Fantasy whateverthehell long enough to notice) we figured it'd be prime time to slap you in the face with some well deserved politics. Not from us, of course, but from Richmond Virginia's hometown hero's Strike Anywhere.

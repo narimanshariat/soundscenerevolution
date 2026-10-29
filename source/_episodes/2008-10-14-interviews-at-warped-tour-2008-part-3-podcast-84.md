@@ -21,7 +21,7 @@ audio_title: 'Interviews at Warped Tour 2008 (Part 3) - Podcast 84'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast084.mp3'
 audio_size: 35672192
 audio_duration: 2228
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-084/podcast084.mp3'
 ---
 
 I've been off the last couple of weeks. Taking some time to reconnect with nature. Find my center. Look at lots of porn. You know the usual. We're gonna wrap up our Warp Tour interviews today and move on to a bright and sunny future with our other upcoming interviews in the next few weeks.

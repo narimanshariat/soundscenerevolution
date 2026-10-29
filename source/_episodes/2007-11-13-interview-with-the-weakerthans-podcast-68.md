@@ -18,7 +18,7 @@ audio_title: 'Interview with The Weakerthans - Podcast 68'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast068.mp3'
 audio_size: 41299113
 audio_duration: 2580
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-068/podcast068.mp3'
 ---
 
 Holy god! Has it really been three months? No it hasn't, actually. Two maybe. Anyhow, after what seems like forever and ever the mediocre hobgoblin of media has returned with more apathy than ever! With no new contests this week, we can only recommend you listen because your life is remarkably boring without us.

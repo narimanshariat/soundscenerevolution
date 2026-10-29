@@ -19,7 +19,7 @@ audio_title: 'Interview with Cobra Skulls - Podcast 114'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast114.mp3'
 audio_size: 38353129
 audio_duration: 2391
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-114/podcast114.mp3'
 ---
 
 This week we post and interview with a band I've been a fan of for sometime now.  Over two years and 50 podcasts ago we sat down with the members of Cobra Skulls.  At the time they had a couple of EP's and a split 7" under their belt and were getting ready for their first full length.  Since then the band has had a whirlwind of activity, releasing two full lengths, a 7" and a split 7" with Andrew Jackson Jihad, not to mention touring the world and giving up any permanent residency.  It's been a busy couple of years and we wanted to catch up, so we got lucky enough to nail Devon to a chair for a few minutes to chat.  It was great not only to catch up with a band I've been following over the years but also to see how much they've changed.  When I first talked to them the band seemed almost overwhelmed that anyone would even listen to them.  A couple years later they seem to have come to terms with it and used their new voice to help bring change they really believe in.  And if that doesn't do it for you, I think we also make some dick and fart jokes.

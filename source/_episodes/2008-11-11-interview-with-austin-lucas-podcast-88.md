@@ -20,7 +20,7 @@ audio_title: 'Interview with Austin Lucas - Podcast 88'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast088.mp3'
 audio_size: 48878385
 audio_duration: 3053
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-088/podcast088.mp3'
 ---
 
 Remember when we did the Warped Tour show and I interviewed a ton of bands that I knew nothing about? Well, these next couple of weeks are nothing like that. I recently went to The Fest, in Gainesville, and had a chance to talk to some artists I've known and loved for a long time. First up is the amazing Austin Lucas.

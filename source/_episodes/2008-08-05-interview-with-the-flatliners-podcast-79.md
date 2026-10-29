@@ -18,7 +18,7 @@ audio_title: 'Interview with The Flatliners - Podcast 79'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast079.mp3'
 audio_size: 28902025
 audio_duration: 1805
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-079/podcast079.mp3'
 ---
 
 True story, we've actually been airing episodes for the last three months and not telling you. Not only have we been airing them but they've been the best thing we've ever done. Hell you've probably even heard some and had no idea. You were probably like, "This podcast is so good! It's way better than Sound Scene Revolution". Well guess what? You're wrong! So just assume we're the best podcast and that anything better is probably us incognito (speaking of, am I the only one who thought it'd be funny if there was a gay X-Men called In-Magneto? Really?).

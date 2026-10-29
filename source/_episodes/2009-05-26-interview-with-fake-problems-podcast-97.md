@@ -20,7 +20,7 @@ audio_title: 'Interview with Fake Problems - Podcast 97'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast097.mp3'
 audio_size: 50638495
 audio_duration: 3159
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-097/podcast097.mp3'
 ---
 
 We took a short leave of absence to rework the site and backlog some shit.  Now, even if we die, this show will live on in the internets, forever!  Feel free to search, or just browse our old shit (and thank Sound Guy Nariman for his hours of work on this bitch).  We also got a sweet logo drawn up by Adam D (you may know him from Link-80/Desa and for being a rad dude and host of the "Break This City" podcast).  If you like it, you can check out more of Adam's work here, <http://xadamdx.blogspot.com/>.

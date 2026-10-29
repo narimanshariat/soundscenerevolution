@@ -20,7 +20,7 @@ audio_title: 'Interview with Shannon Saint Ryan of The T4 Project - Podcast 81'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast081.mp3'
 audio_size: 36377226
 audio_duration: 2272
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-081/podcast081.mp3'
 ---
 
 We're back with another exciting show, or at least as exciting as we get. This week we are running an older interview we did with Shannon Saint Ryan creator and main inspiration dude of the T4 project. Never heard of the T4 Project? Well, it's not terminator based...unless I missed something. It's a story based concept album (redundant?) about...well, something virus related.

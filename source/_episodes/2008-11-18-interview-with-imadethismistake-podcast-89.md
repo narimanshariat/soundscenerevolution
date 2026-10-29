@@ -19,7 +19,7 @@ audio_title: 'Interview with imadethismistake - Podcast 89'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast089.mp3'
 audio_size: 45145592
 audio_duration: 2820
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-089/podcast089.mp3'
 ---
 
 Welcome to the special, pre-Thanksgiving edition of Sound Scene Revolution. It's really on Thanksgiving related because I ate a shit ton of Turkey and got drunk and yelled at Sound Guy Nariman. Oh, the Holidays! Help us celebrate with and interview featuring Kylewilliam of the band Imadethismistake. This guy isn't only a talented songwriter but he has this crazy red hair that makes him look like a Jim Hensen, you know you want some of that. If that doesn't catch your interest we also talk about, life, music, running The Cottage Records, hobos from Tallehasse and unattractive old people. So tune in and check out that maddness.

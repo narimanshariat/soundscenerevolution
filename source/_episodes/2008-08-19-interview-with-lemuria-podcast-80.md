@@ -19,7 +19,7 @@ audio_title: 'Interview with Lemuria - Podcast 80'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast080.mp3'
 audio_size: 49479410
 audio_duration: 3091
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-080/podcast080.mp3'
 ---
 
 Hey y'all! Sorry for the lag time on updates, there was a wedding and I was out of town and...Whatever, I don't owe you an excuse. You're not my real mom anyway.

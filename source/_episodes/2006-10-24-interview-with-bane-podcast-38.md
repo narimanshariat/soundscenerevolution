@@ -19,7 +19,7 @@ audio_title: 'Interview with Bane - Podcast 38'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast038.mp3'
 audio_size: 16846619
 audio_duration: 2103
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-038/podcast038.mp3'
 ---
 
 What is up?! So here's the recap:\

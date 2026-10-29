@@ -20,7 +20,7 @@ audio_title: 'Interview with No Trigger - Podcast 26'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast026.mp3'
 audio_size: 18964418
 audio_duration: 2368
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-026/podcast026.mp3'
 ---
 
 So I hope you all spent your Fourth of July week soaking in the beauty that is American Freedom. Apparently there was also some big Kickball tournament or something too (I guess it was on ESPN 8 or Telemundo). However, that garbage is purely for those Un-American godless, third world, countries who need to pray to Jesus for the salvation of democracy.

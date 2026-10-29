@@ -19,7 +19,7 @@ audio_title: 'Interview with Cobra Skulls - Podcast 60'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast060.mp3'
 audio_size: 32610995
 audio_duration: 2037
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-060/podcast060.mp3'
 ---
 
 So here it is, our first interview in like 6 weeks and I can't think of a damn intro. It's not like I don't have enough to work with, Cobra Skulls, our guest, is a fucking fantastic band. And it's not like it's not topical, their new album, Sitting Army, came out today, July 10. I just can't think of anything else to say. I can't even try to be my typical, not funny self.

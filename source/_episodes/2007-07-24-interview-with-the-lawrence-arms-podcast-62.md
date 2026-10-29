@@ -22,7 +22,7 @@ audio_title: 'Interview with The Lawrence Arms - Podcast 62'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast062.mp3'
 audio_size: 43068752
 audio_duration: 2690
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-062/podcast062.mp3'
 comments:
   -
     name: 'Lewis Murphy'

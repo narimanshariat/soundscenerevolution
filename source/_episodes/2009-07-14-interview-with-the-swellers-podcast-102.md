@@ -20,7 +20,7 @@ audio_title: 'Interview with The Swellers - Podcast 102'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast102.mp3'
 audio_size: 45380835
 audio_duration: 2830
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-102/podcast102.mp3'
 ---
 
 The Swellers...Sounds like it should be a porn title, right?  Well it may be but it's also a collection of rocking dudes, including two brothers and a Canadian.  Sounds like a recipe for a zany buddy comedy, right?  Lots of questions this week, eh?  Anyway, we caught up with these guys literally the day before they announced their signing to the epically huge music conglomerate Fueled by Ramen.  As such, this is the last interview they ever did when they were punk.  So tune in and enjoy the last you'll hear of the punk Swellers, before they become a hip hop boy band, mixed with crunk and nu-metal (that sounds alright actually).

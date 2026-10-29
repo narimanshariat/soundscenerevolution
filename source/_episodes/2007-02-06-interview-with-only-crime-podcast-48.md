@@ -19,7 +19,7 @@ audio_title: 'Interview with Only Crime - Podcast 48'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast048.mp3'
 audio_size: 31908406
 audio_duration: 1993
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-048/podcast048.mp3'
 ---
 
 Happy first Tuesday of February! Did you enjoy the Super Bowl? Probably not unless you're Payton Manning. Seriously, what a clusterfuck of a game. I'm not saying the Colts don't deserve it but the Bears might as well of shined the Lombardi Trophy for the Colts.

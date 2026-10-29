@@ -19,7 +19,7 @@ audio_title: 'Interview with Fake Problems - Podcast 78'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast078.mp3'
 audio_size: 42904494
 audio_duration: 2680
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-078/podcast078.mp3'
 ---
 
 Alright, I get it, I suck! How can we honestly have these interviews in the can and yet not post them? Is it life? Work? Women? Stomach Flu? Probably not. I just can't think of new and funny stuff to write. So I bail.

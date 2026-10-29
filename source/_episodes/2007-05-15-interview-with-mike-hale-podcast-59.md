@@ -18,7 +18,7 @@ audio_title: 'Interview with Mike Hale - Podcast 59'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast059.mp3'
 audio_size: 40731107
 audio_duration: 2544
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-059/podcast059.mp3'
 ---
 
 I want to first and foremost take a second to say we will be out of internet for a couple of weeks. We should be back late May or early June but for now Sound Guy Nariman and myself are going to take some time to drink fruity drinks and do manly stuff. Secondly, we'd like to thank all of the people who have taken time to write us, enter contests and just listen to the show. We love doing this dumb show and we love it even more that people listen and it absolutely blows our minds that people like it...I figure 90% of the interest is due to Chicken and Brendan Kelly but we appreciate the love.

@@ -19,7 +19,7 @@ audio_title: 'Interview with Teenage Bottlerocket - Podcast 76'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast076.mp3'
 audio_size: 41771407
 audio_duration: 2609
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-076/podcast076.mp3'
 ---
 
 Welcome back. We thought we'd pull a little April Fools joke and not post last week. YOU TOTALLY FELL FOR IT! Oh man, the look on your face was priceless. Like that time in Michigan where we all passed out after the Journey reunion concert and you woke up as Donny was teabagging you. Just like that.

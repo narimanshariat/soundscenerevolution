@@ -20,7 +20,7 @@ audio_title: 'Interview with Dead to Me - Podcast 107'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast107.mp3'
 audio_size: 39777360
 audio_duration: 2480
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-107/podcast107.mp3'
 ---
 
 This week I'm really excited to bring you and interview with one of our most frequent and most loved guests.  We first had Chicken on way way back when he was with Western Addiction.  When we first heard about his new band, Dead to Me, I scrambled to get an interview as soon as possible.  An EP and a second full length later, I sit down with him (as well as Nathan and Ian) to talk about regrouping the band, getting a new song writer and what it's like to really hate work.  And if you listen closely (or at all) you get the opportunity to hear Chicken riddle me with insults....Out of love, of course.

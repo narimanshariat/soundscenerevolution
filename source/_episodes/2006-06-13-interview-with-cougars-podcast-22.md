@@ -18,7 +18,7 @@ audio_title: 'Interview with Cougars - Podcast 22'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast022.mp3'
 audio_size: 19272245
 audio_duration: 2406
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-022/podcast022.mp3'
 comments:
   -
     name: Dex

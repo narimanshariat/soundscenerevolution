@@ -17,7 +17,7 @@ audio_title: 'Interview with Jason Webley - Podcast 14'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast014.mp3'
 audio_size: 17641368
 audio_duration: 2202
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-014/podcast014.mp3'
 ---
 
 So Happy Chinese New Year! Though I'm not Chinese I'd like to believe my insatiable love of their food would qualify for reason to cheer. Another reason to cheer is this week's interview with sing/songwriter/accordionist/vegetable rights activist Jason Webley. I've been a huge fan of Jason's work for the last few years so I leapt and grabbed at the opportunity to talk to him, even if it was in a shady basement, in a shady area of shady San Francisco (it was quite dark with all that shade).

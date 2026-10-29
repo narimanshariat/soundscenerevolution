@@ -19,7 +19,7 @@ audio_title: 'Interview with The Loved Ones - Podcast 21'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast021.mp3'
 audio_size: 15947170
 audio_duration: 1990
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-021/podcast021.mp3'
 comments:
   -
     name: 'bilbo maggins'

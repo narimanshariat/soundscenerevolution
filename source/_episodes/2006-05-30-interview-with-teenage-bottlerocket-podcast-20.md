@@ -19,7 +19,7 @@ audio_title: 'Interview with Teenage Bottlerocket - Podcast 20'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast020.mp3'
 audio_size: 15945917
 audio_duration: 1990
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-020/podcast020.mp3'
 ---
 
 So this will be our first "two in a row" update in about two months. How about that for service with a smile, bitch? Anyhow, there's something with Joan Rivers on QVC so let me make this short and to the point.

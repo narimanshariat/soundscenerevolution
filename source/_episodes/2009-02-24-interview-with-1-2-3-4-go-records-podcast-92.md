@@ -19,7 +19,7 @@ audio_title: 'Interview with 1-2-3-4 Go! Records - Podcast 92'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast092.mp3'
 audio_size: 58794467
 audio_duration: 3673
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-092/podcast092.mp3'
 ---
 
 After a super extended holiday break we've returned with all of the your favoriteness that you've come to expect! I'll take the blame for the break, I got used to not doing tons of thankless work and not receiving e-mails from people who hate me and want to do nothing more than needlessly criticize me. I'm sorry, it won't happen again (P.S. It's totally gonna happen again).

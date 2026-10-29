@@ -18,7 +18,7 @@ audio_title: 'Interview with Tera Melos - Podcast 16'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast016.mp3'
 audio_size: 20721518
 audio_duration: 2587
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-016/podcast016.mp3'
 ---
 
 Alright, I just moved and I'm practically typing this thing on top of a cardboard box so no long ass entry today. Long story short we got a killer interview with Tera Melos. These dudes aren't only massively talented, not only do they have a killer live show but they were also one of the Associated Press (the only AP that matters) most overlooked bands of 2005. An honor they shared with Stryper...FUCKING STRYPER!

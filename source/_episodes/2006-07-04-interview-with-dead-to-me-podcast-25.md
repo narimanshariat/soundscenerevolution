@@ -20,7 +20,7 @@ audio_title: 'Interview with Dead To Me - Podcast 25'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast025.mp3'
 audio_size: 19698354
 audio_duration: 2459
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-025/podcast025.mp3'
 ---
 
 So let's keep this simple as I have beer to drink and fireworks to watch. This week we talk with Chicken and Ian of the San Francisco, CA band Dead to Me. This band has members from both One Man Army and Western Addiction. How can it not rock? Answer: It must rock!

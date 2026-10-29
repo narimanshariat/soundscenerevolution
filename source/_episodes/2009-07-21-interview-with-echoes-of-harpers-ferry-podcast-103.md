@@ -19,7 +19,7 @@ audio_title: 'Interview with Echoes of Harpers Ferry - Podcast 103'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast103.mp3'
 audio_size: 37208739
 audio_duration: 2320
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-103/podcast103.mp3'
 ---
 
 So, we broke some big ground with the announcing of The Swellers signing to Fueled by Ramen, even if it didn't get posted until after the news was public knowledge. We decided to take this week to bring you a band you'll be hearing all about in the coming years, Echoes of Harper's Ferry. Imagine some sort of a line between Propagandhi, The Lawrence Arms and Hot Water Music. Pretty fucked up line, eh? Somewhere on that line exists Echoes of Harper's Ferry and it's a strange, scary and awesome place. Check it out as the band talks about being political, seeing bears and what it's like to think some bands are over hyped.

@@ -19,7 +19,7 @@ audio_title: 'Interview with Communique - Podcast 17'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast017.mp3'
 audio_size: 18313028
 audio_duration: 2286
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-017/podcast017.mp3'
 ---
 
 So welcome back. This week I'm keeping it short because in addition to moving in to my new place, my car was burglarized (love that safest big city in America shit San Jose keeps touting about). So, with a long day of canceling and reissuing cards and ID's behind me what could possibly cheer me up? The fact that this week's interview is a two for one! That's right we spoke with Rory, Ryan and John of the band Communiqué, who were also in a little band called American Steel.

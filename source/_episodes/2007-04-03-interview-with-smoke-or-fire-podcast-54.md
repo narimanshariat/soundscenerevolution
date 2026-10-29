@@ -18,7 +18,7 @@ audio_title: 'Interview with Smoke or Fire - Podcast 54'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast054.mp3'
 audio_size: 35358241
 audio_duration: 2208
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-054/podcast054.mp3'
 ---
 
 I'm making this quick because I'm way late getting this in. This week we have Ken and Jeremy from Fat Wreck Chords finest, Smoke or Fire. These guys bring the rock like your mother brings the homemade gravy to a baptism (we don't know why she does it either). Be sure to listen as the boys discuss the benefits of a college education, touring around the world and why Guns N' Roses is only awesome in the past tense.

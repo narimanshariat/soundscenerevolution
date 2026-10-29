@@ -18,7 +18,7 @@ audio_title: 'Interview with DESA - Podcast 23'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast023.mp3'
 audio_size: 19994687
 audio_duration: 2496
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-023/podcast023.mp3'
 ---
 
 No crap intro this week, just a quick explanation. This week we talk with Oakland, California's coolest band that used to have members in Link 80, DESA. All you really need to know about these guys is that they rock hard, real hard (and they live in the nicest ghetto you've ever been afraid to leave your car in). They're on tour right now with RX Bandits and they have a new album out called Arriving Alive that blows away any of their previous stuff we play on this show. So, I highly suggest you get it.

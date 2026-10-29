@@ -19,7 +19,7 @@ audio_title: 'Interview with Fake Problems - Podcast 55'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast055.mp3'
 audio_size: 45249663
 audio_duration: 2827
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-055/podcast055.mp3'
 ---
 
 Sorry, it's been a week or two but we've been really swamped with things here in the real world (or Meat World). But we're back with a great new interview with Fake Problems. These four crazy kids from Florida play a great mix of punk and country. You'll totally want to listen as the boys talk about music, religion and beating the shit out of each other with spoons. Trust me it's fun.

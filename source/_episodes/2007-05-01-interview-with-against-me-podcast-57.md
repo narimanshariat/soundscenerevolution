@@ -20,7 +20,7 @@ audio_title: 'Interview with Against Me! - Podcast 57'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast057.mp3'
 audio_size: 37051812
 audio_duration: 2314
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-057/podcast057.mp3'
 ---
 
 It's been another week (give or take) so we decided to bring you more awesome shit. From who? From the Bobby and Whitney of the punk rock world, Against Me!! Listen as Tom Gabel gives us the exclusive on all that shit you really don't care about but need to hear. It's Fan-God Damn-Tastic!

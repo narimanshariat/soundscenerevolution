@@ -19,7 +19,7 @@ audio_title: 'Interview with Nothington - Podcast 46'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast046.mp3'
 audio_size: 31747909
 audio_duration: 1983
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-046/podcast046.mp3'
 ---
 
 Hey there podcastees. Well after starting off the New Year with a mediocre fizzle we've decided to kick things up a notch by bringing you a new, up and coming, state of the art, highly improved, version 30.6...you get the idea. So who could be worth all this praise? I'll give you a hint it's a band with members who have been in **Tsunami Bomb**, **Enemy You** and **Time Spent Driving**. If you guessed **Nothington**, you're absolutely magical!

@@ -18,7 +18,7 @@ audio_title: 'Interview with The Vex - Podcast 18'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast018.mp3'
 audio_size: 21860666
 audio_duration: 2730
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-018/podcast018.mp3'
 ---
 
 Huzah bitches, we ain't dead. So it's been a while but we're glad to be back. This week we have an awesome interview with local boys The Vex. We actually snagged this interview with a little help from Johnny of The Clifton's. So I guess it really is all about who you know.

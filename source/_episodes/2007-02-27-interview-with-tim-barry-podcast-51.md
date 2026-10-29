@@ -19,7 +19,7 @@ audio_title: 'Interview with Tim Barry - Podcast 51'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast051.mp3'
 audio_size: 45329912
 audio_duration: 2832
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-051/podcast051.mp3'
 ---
 
 Hey all, just so ya know, we're not actually late with this post. See, this episode we have our second artist on Suburban Home Records, Tim Barry, in as many weeks. I had a blog all set and ready to post and then I read [this](http://www.suburbanhomerecords.com/2007/02/27/the-future-of-suburban-home-vinyl-collective-and-dead-format/). Needless to say I was stunned, especially considering how generously Virgil hooked us up with give-away stuff these past two episodes. Suburban Home has always been one of those labels that put out quality bands, maybe not bands that sold millions of albums but that always made good music. They've been nothing but nice to me (both in my dealings as a mail order customer and in the podcast), which may not seem too odd but trust me, most labels aren't too eager to help out a kid with a late order or some douche with a podcast. I really wish all the best to Virgil and everyone at Suburban Home/Dead Format/Vinyl Collective, these are the people who know what music is supposed to be about.

@@ -20,7 +20,7 @@ audio_title: 'Interview with O Pioneers!!! - Podcast 111'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast111.mp3'
 audio_size: 42973395
 audio_duration: 2680
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-111/podcast111.mp3'
 comments:
   -
     name: madi

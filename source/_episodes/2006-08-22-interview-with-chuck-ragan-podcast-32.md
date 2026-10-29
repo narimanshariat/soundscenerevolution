@@ -19,7 +19,7 @@ audio_title: 'Interview with Chuck Ragan - Podcast 32'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast032.mp3'
 audio_size: 18713015
 audio_duration: 2336
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-032/podcast032.mp3'
 ---
 
 So for those of you not wrapped up in the uneventful 24 hour news coverage of a 10 year old murder case, we have a new and exciting interview. This week we talk with a musician, carpenter and fisherman. I mean none other than the eclectic Chuck Ragan.

@@ -19,7 +19,7 @@ audio_title: 'Interview with Drag the River - Podcast 50'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast050.mp3'
 audio_size: 37387015
 audio_duration: 2335
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-050/podcast050.mp3'
 comments:
   -
     name: 'Virgil Dickerson'

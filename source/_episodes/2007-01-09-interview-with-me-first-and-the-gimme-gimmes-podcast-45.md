@@ -21,7 +21,7 @@ audio_title: 'Interview with Me First and the Gimme Gimmes - Podcast 45'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast045.mp3'
 audio_size: 20595922
 audio_duration: 2572
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-045/podcast045.mp3'
 ---
 
 Welcome back from your amazing holiday season. I hope you got all the meaningless material possessions you could ever ask for, and with any luck you got totally sloshed at least once and did something you'll regret. Baby Jesus would be proud.

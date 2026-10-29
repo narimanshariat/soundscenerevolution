@@ -19,7 +19,7 @@ audio_title: 'Interview with The Playing Favorites - Podcast 71'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast071.mp3'
 audio_size: 41599208
 audio_duration: 2598
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-071/podcast071.mp3'
 ---
 
 Yeah! Shit yeah! What's better than sitting around talking to Joey Cape? Sitting around talking to Joey Cape about his new band The Playing Favorites, that's what. Listen as we talk to Mr. Cape about his new project and how awesome it is to do something that isn't Lagwaon (Sidenote: Joey is really 6' 7") and we even get to play some tracks off the new album I Remember When I Was Pretty (the last track we play, "Indigenous", is my favorite thus far).

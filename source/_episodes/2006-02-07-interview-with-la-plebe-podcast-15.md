@@ -18,7 +18,7 @@ audio_title: 'Interview with La Plebe - Podcast 15'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast015.mp3'
 audio_size: 17803954
 audio_duration: 2223
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-015/podcast015.mp3'
 comments:
   -
     name: 'keyla mendoza'

@@ -21,7 +21,7 @@ audio_title: 'Interview with imadethismistake and Neil Sutherland - Podcast 108'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast108.mp3'
 audio_size: 55929545
 audio_duration: 3490
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-108/podcast108.mp3'
 ---
 
 Thanks for coming back and joining us for a very very special episode.  This week we have two totally rad guests.  The first is Kyle(williams) of Imadethismistake, who you may remember from our post-Fest shows last year.  He's back with a new album, a new tour and stuff to talk about.  Our second guest is Neil Sutherland, who is from the totally non-American area Essex.  Not only is he a great songwriter, but he's going to get a Phd...Which may make him the smartest damn person ever to talk to us.

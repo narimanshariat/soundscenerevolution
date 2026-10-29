@@ -19,7 +19,7 @@ audio_title: 'Interview with Theo and the Skyscrapers - Podcast 27'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast027.mp3'
 audio_size: 20529048
 audio_duration: 2563
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-027/podcast027.mp3'
 ---
 
 "Welcome to hell, bitch!" Martin Lawrence – Nothing to Lose

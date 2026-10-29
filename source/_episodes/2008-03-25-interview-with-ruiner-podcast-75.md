@@ -19,7 +19,7 @@ audio_title: 'Interview with Ruiner - Podcast 75'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast075.mp3'
 audio_size: 27435824
 audio_duration: 1713
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-075/podcast075.mp3'
 ---
 
 We're back! Sound the trumpets. Ring the gongs. Paint the fences. Whatever you do to celebrate do it, because this shit is off the hinges. We're back after two months of bullshit so that we could bring you some totally fantastic interviews.\

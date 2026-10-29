@@ -20,7 +20,7 @@ audio_title: 'Interview with Propagandhi - Podcast 93'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast093.mp3'
 audio_size: 43857023
 audio_duration: 2740
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-093/podcast093.mp3'
 ---
 
 Welcome back, have a seat, take a load off. Why do you have a load anyway? What are you, some old timey mine worker? Speaking of old timey, we have an interview with Chris Hannah, frontman and general badass from Propagandhi. The fine foursome from Winnepeg are getting ready to release their fifth album in 40 years, Supporting Caste. The boys are really excited for this one and Chris has a ton of things to talk about from the new album, to the hiatus of G7 Welcoming Comittee and even a bit about politics (really a rare topic for Propagandhi). So check it out and hear bits of their new album that 99% of your friends already downloaded.

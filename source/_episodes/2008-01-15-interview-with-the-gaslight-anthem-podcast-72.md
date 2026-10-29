@@ -20,7 +20,7 @@ audio_title: 'Interview with The Gaslight Anthem - Podcast 72 '
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast072.mp3'
 audio_size: 29420713
 audio_duration: 1837
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-072/podcast072.mp3'
 ---
 
 Sorry, Sorry, Sorry, sorry. Well, not really but I feel bad because life must have sucked while we were gone. But we're glad to be back and glad to let you listen to more of our shenanigans, tomfoolery and buttsex. We happen to have an awesome new band on the show today I could only mean Gaslight Anthem.

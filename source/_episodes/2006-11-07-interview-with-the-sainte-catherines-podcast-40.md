@@ -19,7 +19,7 @@ audio_title: 'Interview with The Sainte Catherines - Podcast 40'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast040.mp3'
 audio_size: 14952219
 audio_duration: 1866
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-040/podcast040.mp3'
 ---
 
 In a continuing effort to bring you music from people who are not our immediate friends or family, we recently spoke with on of Canada's greatest six piece bands. Not only do these guys play killer punk rock with three guitars, not only do they speak no less than two languages, not only do they manage to tear through at least 5 vans and as many transmissions but they also have some sort of music award shaped like moose antlers. You better believe The Sainte Catherines have it all.

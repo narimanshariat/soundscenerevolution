@@ -19,7 +19,7 @@ audio_title: 'Interview with Riverboad Gamblers - Podcast 56'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast056.mp3'
 audio_size: 40635394
 audio_duration: 2538
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-056/podcast056.mp3'
 ---
 
 Blogin' Time bitches. River Boat Gamblers, Mike. SSR, Me. Interview, funny (maybe), informative (probably), homoerotic (for sure).

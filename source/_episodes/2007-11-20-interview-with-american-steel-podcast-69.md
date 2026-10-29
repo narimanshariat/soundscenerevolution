@@ -19,7 +19,7 @@ audio_title: 'Interview with American Steel - Podcast 69'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast069.mp3'
 audio_size: 31517614
 audio_duration: 1968
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-069/podcast069.mp3'
 ---
 
 We back! Not only are we back, but we back with one of the greatest Bay Area acts of this last whatever long! Prepare to enjoy the delicous jams and tasty talk of the boys from American Steel. Formerly Comunique, formerly American Steel, they've been making music for almost 15 years in some form. They're back after a nearly five year absence to bring the fantastic Destroy Their Future to the desrving masses.

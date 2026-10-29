@@ -21,7 +21,7 @@ audio_title: 'The Fest Hotel Show - Podcast 115'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast115.mp3'
 audio_size: 37239044
 audio_duration: 2321
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-115/podcast115.mp3'
 ---
 
 **\*\*CAUTION\*\*:** This week's show starts out loud and annoying and gets better from there.

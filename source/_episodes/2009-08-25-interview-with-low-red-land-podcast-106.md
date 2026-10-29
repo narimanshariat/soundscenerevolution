@@ -18,7 +18,7 @@ audio_title: 'Interview with Low Red Land - Podcast 106'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast106.mp3'
 audio_size: 47247259
 audio_duration: 2947
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-106/podcast106.mp3'
 comments:
   -
     name: 'stue trory'

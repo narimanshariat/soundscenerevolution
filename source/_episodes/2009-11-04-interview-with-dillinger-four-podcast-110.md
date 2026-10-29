@@ -19,7 +19,7 @@ audio_title: 'Interview with Dillinger Four - Podcast 110'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast110.mp3'
 audio_size: 32087040
 audio_duration: 1999
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-110/podcast110.mp3'
 comments:
   -
     name: MattRamone

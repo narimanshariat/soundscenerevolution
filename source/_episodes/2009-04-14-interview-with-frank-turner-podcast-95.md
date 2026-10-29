@@ -19,7 +19,7 @@ audio_title: 'Interview with Frank Turner - Podcast 95'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast095.mp3'
 audio_size: 38816853
 audio_duration: 2425
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-095/podcast095.mp3'
 ---
 
 This week we have a very special show. We asked a lot of you to write in and you did (and not just to ask who Ryan from OWTH was talking about). One of the many suggestions we received was that we interview singer/songwriter Frank Turner. Well, we were gonna do it any way but it's nice to know that people want to hear it.

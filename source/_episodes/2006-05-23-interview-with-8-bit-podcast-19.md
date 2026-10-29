@@ -18,7 +18,7 @@ audio_title: 'Interview with 8-Bit - Podcast 19'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast019.mp3'
 audio_size: 13763752
 audio_duration: 1718
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-019/podcast019.mp3'
 ---
 
 So it's been an interesting little break. I'm sure you guys barely missed us what with the season finales of *Lost*, *Will and Grace* and *Some other shit*. We decided to skip the big frenzy of May finales (April too) and instead log an assload of killer interviews that we will now unleash on you to kick off the summer months.

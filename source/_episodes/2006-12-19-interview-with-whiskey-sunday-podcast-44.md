@@ -19,7 +19,7 @@ audio_title: 'Interview with Whiskey Sunday - Podcast 44'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast044.mp3'
 audio_size: 19384258
 audio_duration: 2420
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-044/podcast044.mp3'
 ---
 
 So we're just about to take a break for the holidays BUT before we do that we feel that we should leave the show on a high note. Unfortunately, as we couldn't find a really good band, we leave you with Whiskey Sunday. I'm just kidding. But really folks, Whiskey Sunday is comprised of five San Jose locals who take kindly to hard rocking and hard drinking. They've been compared to Leather Face and Hot Water Music...and that ain't too damn bad!

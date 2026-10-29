@@ -20,7 +20,7 @@ audio_title: 'Interview with Underground Communique Records - Podcast 112'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast112.mp3'
 audio_size: 51736682
 audio_duration: 3227
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-112/podcast112.mp3'
 ---
 
 Sorry we missed last week.  Actually, Sound Guy Nariman didn't miss last week.  He was all amped and ready to go, but I was out with some awful Sars/Swine Flu hybrid.  Well, I’m back and so is our special Fest coverage.

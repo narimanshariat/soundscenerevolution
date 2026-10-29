@@ -21,7 +21,7 @@ audio_title: 'Interviews at Warped Tour (Part 1) - Podcast 28'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast028.mp3'
 audio_size: 20889120
 audio_duration: 2608
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-028/podcast028.mp3'
 comments:
   -
     name: 'balls mahoney'

@@ -20,7 +20,7 @@ audio_title: 'Interview with Sundowner - Podcast 58'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast058.mp3'
 audio_size: 31248448
 audio_duration: 1952
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-058/podcast058.mp3'
 ---
 
 Today we have a very special episode that features our very first phone interview with Mr. Chris McCaughan of The Lawrence Arms and (more importantly) Sundowner. Chris is as much an amazing sex symbol as he is a musician and if it weren't for the fact that he was in Chicago and not face to face, I would have been drooling this entire interview. Luckily he was some thousands of miles away so we were able to discuss Sundowner, touring, Jenny Choi and the overwhelming Lawrence Arms breakup rumors.

@@ -28,7 +28,7 @@ audio_title: 'The Best of Show Part 2 - Podcast 100'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast100.mp3'
 audio_size: 37316856
 audio_duration: 2326
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-100/podcast100.mp3'
 ---
 
 I want to personally welcome you all to our 100th show.  I'm not gonna lie, this shit wasn't easy.  You know that expression, "do what you love and you'll never work a day in your life"?  What they don't tell you about it is you'll never work a day in your life because no one will pay you to do that shit.  It's been a costly effort and taken time, money and our social lives but we wouldn't change a thing.  Well, maybe that money part...I like money.

@@ -21,7 +21,7 @@ audio_title: 'Interview with NoBunny - Podcast 118'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast118.mp3'
 audio_size: 44269857
 audio_duration: 2761
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-118/podcast118.mp3'
 comments:
   -
     name: 'Dj Gaz Le Rock'

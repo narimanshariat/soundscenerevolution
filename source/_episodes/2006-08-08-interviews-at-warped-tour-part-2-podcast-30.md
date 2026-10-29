@@ -22,7 +22,7 @@ audio_title: 'Interviews at Warped Tour (Part 2) - Podcast 30'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast030.mp3'
 audio_size: 21450021
 audio_duration: 2678
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-030/podcast030.mp3'
 ---
 
 This week we bring you the fantastic second edition of our Warped Tour interviews. So sit back and enjoy music and interviews from The Living end and Every Time I Die. One band is Australian and plays an upright bass, one is American and has a music video featuring Michael Madsen, I'll let you decide who is who. However, I will tell you that urine, *Revolver* magazine, and giant hair is discussed.\

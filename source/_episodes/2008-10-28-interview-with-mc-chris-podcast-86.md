@@ -19,7 +19,7 @@ audio_title: 'Interview with mc chris - Podcast 86'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast086.mp3'
 audio_size: 36635942
 audio_duration: 2288
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-086/podcast086.mp3'
 ---
 
 Welcome to this very special Halloween edition of Sound Scene Revolution. What makes it Halloween-like? Well, I'm wearing a dress for one, but that could just be called "The Third Week of the Month" Edition. Anyhow, we're also taking this week to talk with a very special artist mc chris (lowercase no dots, rewind). You may know him as Chris Ward, Hesh from Sealab, or even MC PeePants from Aqua Teen Hunger force. He's truly an mc of many faces and costumes (see "Halloween", bitches!).

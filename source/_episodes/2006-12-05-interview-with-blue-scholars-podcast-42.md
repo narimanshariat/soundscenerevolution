@@ -20,7 +20,7 @@ audio_title: 'Interview with Blue Scholars - Podcast 42'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast042.mp3'
 audio_size: 18692118
 audio_duration: 2334
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-042/podcast042.mp3'
 ---
 
 CONGRADULATIONS!\

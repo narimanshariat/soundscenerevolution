@@ -23,7 +23,7 @@ audio_title: 'Interviews at Warped Tour 2008 (Part 2) - Podcast 83'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast083.mp3'
 audio_size: 45605765
 audio_duration: 2849
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-083/podcast083.mp3'
 ---
 
 Welcome, to this the 80-something episode of Sound Scene Revolution. This is the second of our three Warped Tour Interview sections. This week we sit down with The Aggrolites, Story of the Year and Cobra Starship. Well, it's more standing than sitting. Regardless, they're pretty epically nasty and I highly reccomend you listen.

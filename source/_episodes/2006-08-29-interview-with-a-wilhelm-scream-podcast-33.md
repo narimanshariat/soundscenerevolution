@@ -21,7 +21,7 @@ audio_title: 'Interview with A Wilhelm Scream - Podcast 33'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast033.mp3'
 audio_size: 20947216
 audio_duration: 2615
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-033/podcast033.mp3'
 ---
 
 This week we have something even more exciting than a debacle in a ten year old murder case, that's right it's A Wilhelm Scream (not just an exciting sound effect). These Massachusans are not only the kings of soon to be pin up teen heart throbs, they're also one of the best young technical punk bands around. We got the chance to talk with Nuno and new bassist Brian (and knowing how this band goes through bassists this may be the only time you hear from him) about such fine topics as touring, being recognized at Best Buy and how awesomely unawesome Warped Tour is. We even took time to tackle the big issues regarding Dexter Holland and Anarchy Airlines!

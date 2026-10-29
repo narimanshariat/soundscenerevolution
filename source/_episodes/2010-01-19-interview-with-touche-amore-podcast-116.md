@@ -21,7 +21,7 @@ audio_title: 'Interview with Touché Amoré - Podcast 116'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast116.mp3'
 audio_size: 35147296
 audio_duration: 2191
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-116/podcast116.mp3'
 ---
 
 We're so excited to be back with a brand new show for the new year (and indeed the new decade).  What better way to ring in the new year than with a new band who's rising faster than Republican boners after Brown's election, Touche Amore.  These guys are from LA and they play some old school emo/hardcore/I hate Genres.  Anyhow, they're super good and they happen to be friends with some dude from Thursday, so your hip friends now them through that.  If you don't know too much about them but dig the interview you can enter to win a copy of their debut full length *...To the Beat of a Dead Horse* on 12" vinyl and CD.  Just tune in to the end of the broadcast to get that info.

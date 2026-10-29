@@ -19,7 +19,7 @@ audio_title: 'Interview with Leftöver Crack - Podcast 41'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast041.mp3'
 audio_size: 19945369
 audio_duration: 2490
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-041/podcast041.mp3'
 ---
 
 So, how does one top an interview with Quebec's hometown heroes of awesome? With an interview featuring New York's favorite squatter punks. You know it has to be Leftöver Crack. More specifically Stza (Scott Sturgeon) and Ezra (Ezra Kire).

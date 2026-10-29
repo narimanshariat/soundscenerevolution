@@ -19,7 +19,7 @@ audio_title: 'Interview with Dan Potthast - Podcast 64'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast064.mp3'
 audio_size: 34495155
 audio_duration: 2154
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-064/podcast064.mp3'
 ---
 
 Here's a funny story. We edited this week’s show almost 7 days ago. All we needed to get it posted was my shitty blog contribution. 7 days...and this is what you get. That's service.

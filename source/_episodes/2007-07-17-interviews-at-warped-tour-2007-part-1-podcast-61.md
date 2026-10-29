@@ -23,7 +23,7 @@ audio_title: 'Interviews at Warped Tour 2007 (Part 1) - Podcast 61'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast061.mp3'
 audio_size: 47058173
 audio_duration: 2940
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-061/podcast061.mp3'
 ---
 
 So, a week back into shows and it seems like my writer's block has cleared up, yah! Unfortunately, you now have to (well I guess not "have to" but you should) listen to what is now known as "The Warped Tour shit-fest!". Not that I have anything against the Warped Tour, I mean we had to apply for press Pass, which in and of itself is 90% more work than we normally do. So we had to want to get in. However, once inside the Warped Tour press tent, we entered a land where time and space functioned in odd, unexplainable ways. A world where Big D and the Kids Table weren't listed on the interview schedule, but you could interview them if you asked the press lady about it. A world where that same press lady would continually feed you band after band of crap that you didn't request and you didn't know a thing about. In short, a world gone mad.

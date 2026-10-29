@@ -19,7 +19,7 @@ audio_title: 'Interview with Bomb the Music Industry! - Podcast 67'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast067.mp3'
 audio_size: 51185520
 audio_duration: 3198
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-067/podcast067.mp3'
 ---
 
 Here it is kids, our last blog before we go on a month long hiatus to spread the message of gay Jebus to third world states across the midwest! So how do you top off a series of mediocre Warped Tour interviews? With one interview so goddamn insane it bottles the mind. That's right we got Bomb the Music Industry! with us this week and we pull no punches. We talk about O' Pioneers!!!, Asian Man Records, selling out, buying in, buying low and selling high and all the general things that have helped make Jeff the multimillionaire spokesman for DIY ska.

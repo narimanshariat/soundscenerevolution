@@ -19,7 +19,7 @@ audio_title: 'Interview with New Mexican Disaster Squad - Podcast 49'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast049.mp3'
 audio_size: 40785441
 audio_duration: 2548
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-049/podcast049.mp3'
 ---
 
 So, it's Valentines week, huzzah (by the way "huzzah" is in Microsoft spell check, weird)! Hordes of young lovers will be buying sweet nothings for each other, writing love poems and hooking up (hopefully leading to an unwanted pregnancy and a Maury Povich paternity test marathon). And, what better way to celebrate the season of love than with a new podcast featuring those barons of romance, New Mexican Disaster Squad. The name just says, "The Sexxy".

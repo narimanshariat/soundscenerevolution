@@ -18,7 +18,7 @@ audio_title: 'Interview with Look Mexico - Podcast 85'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast085.mp3'
 audio_size: 51220211
 audio_duration: 3200
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-085/podcast085.mp3'
 ---
 
 We might actually manage two updates in a row folks! I know, I'm not only surprised but a bit disappointed in the slacker in me. I guess he just didn't have what it took to miss another week. Anyhow, if we're gonna be unlazy we might as well go big and have an interview with and awesome band, Look Mexico. These kids are actually from Florida, so I don't even think they can see Mexico...So maybe there's a metaphor in there, who knows? They get compared to American Football a lot (the band not the sport that harbors dog fighters), and that can't be a bad thing. So enjoy the songs and the interview.

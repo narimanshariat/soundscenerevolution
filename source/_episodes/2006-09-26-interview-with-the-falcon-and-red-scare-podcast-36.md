@@ -19,7 +19,7 @@ audio_title: 'Interview with The Falcon and Red Scare - Podcast 36'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast036.mp3'
 audio_size: 20869267
 audio_duration: 2606
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-036/podcast036.mp3'
 ---
 
 Ah shit, looks like I over slept and forgot to get this weeks blog out to Sound Guy Nariman in time. Luckily, for you, it's worth the wait. For our 36th show we brought you a Red Scare extravaganza. This interview features not only Neil and Brendan of The Falcon, not only Red Scare owner Toby Jeg but also everyone's favorite bearded muppet/editor Justin! This shit is insane son! Listen to the mayhem as we bowl through topics like: Jersey City Whores, heroin and squirting moms. It's a punk rockin' good time!

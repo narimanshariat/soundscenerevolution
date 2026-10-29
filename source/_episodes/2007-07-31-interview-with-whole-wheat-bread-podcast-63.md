@@ -18,7 +18,7 @@ audio_title: 'Interview with Whole Wheat Bread - Podcast 63'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast063.mp3'
 audio_size: 37138747
 audio_duration: 2320
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-063/podcast063.mp3'
 comments:
   -
     name: mark

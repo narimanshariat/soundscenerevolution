@@ -18,7 +18,7 @@ audio_title: 'Interview with The Forgotten - Podcast 43'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast043.mp3'
 audio_size: 22128161
 audio_duration: 2763
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-043/podcast043.mp3'
 ---
 
 For those of you who don't follow our history, Sound Scene Revolution was originally created to focus on local, Bay Area, bands and underground artists. As we've been gaining popularity we continued to bring you underground artists but we've been slacking on the local artists, UNTIL NOW!!! This weeks show features a straight forward punk band who is both local and national AND rocks on several different levels. This could only be San Jose's very own The Forgotten.

@@ -19,7 +19,7 @@ audio_title: 'Interview with Girl Talk - Podcast 87'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast087.mp3'
 audio_size: 46273663
 audio_duration: 2891
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-087/podcast087.mp3'
 ---
 
 Welcome to a historic episode of Sound Scene Revolution. An episode that not only demonstrates our commitment to bring you new content but an episode that occurs on a day that will live in American history forever. Today is a day where the world see's the we can live up to our true potential. That we are as open minded as we say and that we choose based on qualifications and not superficial traits. Today, is the first time ever that Sound Scene Revolution has featured an electronic musician on their show. Take note.

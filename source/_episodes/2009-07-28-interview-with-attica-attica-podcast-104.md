@@ -21,7 +21,7 @@ audio_title: 'Interview with Attica! Attica! - Podcast 104'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast104.mp3'
 audio_size: 49642611
 audio_duration: 3097
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-104/podcast104.mp3'
 ---
 
 This week we have a very special episode.  It's not often that I really feel like the show reaches people but this is one of those instances.  A few weeks ago Aaron Scott (Attica! Attica!, Ex-Marathon) e-mailed us and asked if we might want to have him on the show.  He listened to the No Trigger interview we did a while back where we gushed over Marathon and thought he might offer (mind you Aaron was totally humble and nearly embarrassed about seeming so presumptuous to assume that we must want to talk to him).  Anyhow, we were beyond stoked to have the chance to talk to Aaron and the fact that he was a fan (as we were of his work) made it even more exciting.

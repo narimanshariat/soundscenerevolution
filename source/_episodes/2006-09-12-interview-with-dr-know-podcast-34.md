@@ -19,7 +19,7 @@ audio_title: 'Interview with Dr. Know - Podcast 34'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast034.mp3'
 audio_size: 19806815
 audio_duration: 2473
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-034/podcast034.mp3'
 comments:
   -
     name: jorge

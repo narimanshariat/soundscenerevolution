@@ -19,7 +19,7 @@ audio_title: 'Interview with No Friends - Podcast 101'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast101.mp3'
 audio_size: 28073512
 audio_duration: 1749
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-101/podcast101.mp3'
 extra_audio:
   -
     file: nofriends_phone.mp3
@@ -27,7 +27,7 @@ extra_audio:
     original_url: 'http://soundscenerevolution.com/wp-content/uploads/2009/05/nofriends_phone.mp3'
     size: 15576947
     duration: 973
-    url: ~
+    url: 'https://archive.org/download/ssr-podcast-101/nofriends_phone.mp3'
 ---
 
 Taking now down time from our 100th epic show (and celebration) we're jumping straight into 101!   This week we have a special show featuring Tony, vocalist of No Friends (and some other band call Municipal Waste).  We had a chance to talk to Tony about working with a new band, fitting in with part of the New Mexican Disaster Squad dynamic and how to work in two awesome bands.  Plus, we have some awesome new songs from No Friends not yet released LP.

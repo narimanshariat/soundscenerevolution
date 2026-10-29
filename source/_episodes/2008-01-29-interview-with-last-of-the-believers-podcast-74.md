@@ -20,7 +20,7 @@ audio_title: 'Interview with Last of the Believers - Podcast 74'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast074.mp3'
 audio_size: 29947759
 audio_duration: 1870
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-074/podcast074.mp3'
 ---
 
 How awesome are we at staying on schedule? The answer, not at all. Sorry, but with all the writers on strike I've been taking my time to put together a new script for a zany sitcom. I don't want to reveal too much but let's just say it will be a mix of Homeboys in Outer space and Laugh In. Expect big things.

@@ -20,7 +20,7 @@ audio_title: 'Interview with Olehole - Podcast 99'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast099.mp3'
 audio_size: 47941240
 audio_duration: 2990
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-099/podcast099.mp3'
 ---
 
 Ladies and gentlemen,\

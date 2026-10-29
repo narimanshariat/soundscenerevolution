@@ -19,7 +19,7 @@ audio_title: 'Interview with Avail - Podcast 47'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast047.mp3'
 audio_size: 32260327
 audio_duration: 2015
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-047/podcast047.mp3'
 ---
 
 So I don't know if you noticed, but we were gone last week. Sorry, we have personal lives(not really but sort of) and we weren't able to get a show up BUT I promise we'll make it up to you. How? By giving you a rip roaring good time of an interview with everyone's favorite native Virginians, Avail!

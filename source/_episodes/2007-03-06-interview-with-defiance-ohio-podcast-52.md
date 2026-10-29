@@ -19,7 +19,7 @@ audio_title: 'Interview with Defiance, Ohio - Podcast 52'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast052.mp3'
 audio_size: 44064749
 audio_duration: 2753
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-052/podcast052.mp3'
 extra_audio:
   -
     file: podcast052-full.mp3
@@ -27,7 +27,7 @@ extra_audio:
     original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast052-full.mp3'
     size: 24179546
     duration: 3022
-    url: ~
+    url: 'https://archive.org/download/ssr-podcast-052/podcast052-full.mp3'
 ---
 
 I'm at the job so I'll keep this short (updating your blog is apparently only a small step up from looking at porn on the clock, according to company policy). This week we have a couple of special surprises. First, we have a rocking guest by the name of Geoff from **Defiance, Ohio**. They're a super awesome band that blends elements of folk and punk(ya know, folk-punk). If that doesn't do it for you picture **Against Me!**, **This Bike is a Pipe Bomb**, **Woody Guthrie** and four dudes who haven't showered in a while playing beach volleyball in the middle of October on some far off frozen tundra that is only inhabited by an indigenous population of **crab people**, while the soundtrack to The Sound of Music plays in the background and a team of **Iron Chefs** prepare a meal for the Grand Wizard of the **Klu Klux Klan** using the secret ingredient of teeth pulled from the infant mouth of the Siberian White Tiger. Ya know something like that.

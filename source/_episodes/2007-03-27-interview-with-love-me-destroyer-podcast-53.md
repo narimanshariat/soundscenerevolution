@@ -19,7 +19,7 @@ audio_title: 'Interview with Love Me Destroyer - Podcast 53'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast053.mp3'
 audio_size: 42162617
 audio_duration: 2634
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-053/podcast053.mp3'
 ---
 
 We kind of fell off the face of the earth for a little while so let me explain…We totally suck. Actually, we just wanted to make sure we had some good shows lined up. We hate taking weeks off as much as you hate late updates. The only thing we hate more than late shows is doing a show half assed. So, instead we opted to take a few weeks off, gather up some shows so this way we have a little buffer so we don't need to fall behind or simply slap together a show with some shit band.

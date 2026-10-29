@@ -18,7 +18,7 @@ audio_title: 'Interview with Hour of the Wolf - Podcast 117'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast117.mp3'
 audio_size: 49516931
 audio_duration: 3089
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-117/podcast117.mp3'
 ---
 
 I could not be happier to bring you this weeks guest and show.  We actually conducted this interview later in the evening after last weeks interview, with Touche Amore.  After leaving the venue, we caught Hour of the Wolf at Comadre's place (well Jack Shirley's place), and they were totally nice enough to chat with us.  At this point I had a bit to drink and was probably misstating a few facts.  So if something is wrong, my bad.

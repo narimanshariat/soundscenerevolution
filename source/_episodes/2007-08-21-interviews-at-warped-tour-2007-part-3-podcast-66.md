@@ -21,7 +21,7 @@ audio_title: 'Interviews at Warped Tour 2007 (Part 3) - Podcast 66'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast066.mp3'
 audio_size: 40621601
 audio_duration: 2537
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-066/podcast066.mp3'
 ---
 
 Holy crap! For the two of you who might read this crap, we've finally rolled out a show on time for the first time since your mom was sober enough to pass out somewhere other than the porch. How did we manage to do this amazing feat of averageness? Mostly, because this is a Warped Tour episode and the show was recorded and edited weeks ago...BUT, also because I had a remarkably slow day at work and got to type the blog on the clock. Take that, the man!

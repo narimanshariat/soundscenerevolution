@@ -19,7 +19,7 @@ audio_title: 'Interview with Akimbo - Podcast 29'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast029.mp3'
 audio_size: 20340966
 audio_duration: 2540
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-029/podcast029.mp3'
 comments:
   -
     name: 'markie theory'

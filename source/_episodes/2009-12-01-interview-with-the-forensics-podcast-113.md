@@ -22,7 +22,7 @@ audio_title: 'Interview with The Forensics - Podcast 113'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast113.mp3'
 audio_size: 47465040
 audio_duration: 2961
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-113/podcast113.mp3'
 comments:
   -
     name: Brent!

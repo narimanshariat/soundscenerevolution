@@ -20,7 +20,7 @@ audio_title: 'Interview with Horse the Band - Podcast 35'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast035.mp3'
 audio_size: 24060176
 audio_duration: 3005
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-035/podcast035.mp3'
 ---
 
 This week we keep it real with none other than HORSE the Band. This interview is so real, that we decided to do it in San Francisco's tenderloin, as shit was being stolen! That's right, in this interview you get not only a HORSE the Band interview PLUS tracks from their new EP Pizza BUT you get to hear us actually describe crimes in progress.

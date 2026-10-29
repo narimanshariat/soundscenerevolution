@@ -18,7 +18,7 @@ audio_title: 'Interview with World/Inferno Friendship Society - Podcast 31'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast031.mp3'
 audio_size: 18806847
 audio_duration: 2348
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-031/podcast031.mp3'
 ---
 
 This week marks a milestone, not necessarily for us at SSR, but for humanity as a whole. This week is the official release of one of the greatest pieces of cinema du force ever, Snakes on a Plane. Seriously, have the jokes gotten old? Sure. Is it going to be a mark of pop culture embarrassment years from now? Probably. Am I going to be there opening weekend? Absolutely.

@@ -19,7 +19,7 @@ audio_title: 'Interview with Comadre - Podcast 109'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast109.mp3'
 audio_size: 50495277
 audio_duration: 3150
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-109/podcast109.mp3'
 ---
 
 What is up peoples!  In preparation for the eighth annual "The Fest" fest in Gainesville, we've posting a special episode featuring a band playing Fest you should all know and love, Comadre!  Not only are these handsome fuckers playing The Fest, not only are they from my hometown of Redwood City, not only are they amazing, but I'm pretty sure some kid in my high school had a boy crush on Jack Shirley (who played in Anti-45 at the time).  So figure that out!

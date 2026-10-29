@@ -18,7 +18,7 @@ audio_title: 'Interview with This Is My Fist - Podcast 73'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast073.mp3'
 audio_size: 35980582
 audio_duration: 2247
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-073/podcast073.mp3'
 ---
 
 After doing these things for two years it's hard to come up with new and funny shit to say, especially when I'm old and not funny. So here's the cold hard facts:\

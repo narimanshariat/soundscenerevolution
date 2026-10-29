@@ -18,7 +18,7 @@ audio_title: 'Interview with This Is Hell - Podcast 77'
 audio_original_url: 'http://soundscenerevolution.com/wp-content/uploads/audio/podcast077.mp3'
 audio_size: 43316096
 audio_duration: 2706
-audio_url: ~
+audio_url: 'https://archive.org/download/ssr-podcast-077/podcast077.mp3'
 ---
 
 It's true. I've finally run out of witty banter for these intros. Well, this one at least. Maybe it's the weather. Maybe it's just the sheer number we've done. Maybe it's the fact that I feel crippled by two straight days of diarrhea that can only be described as "godless".\
